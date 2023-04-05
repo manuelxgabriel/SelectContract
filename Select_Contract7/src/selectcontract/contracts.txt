@@ -1,0 +1,49 @@
+4RDW,Victoria,Prince George,Flowers
+8EKD,Vancouver,Victoria
+3HQC,Seattle,Vancouver,Pharmaceutical
+4GQC,Portland,Sacramento,Flowers
+3HRW,Portland,Toronto,Flowers
+1GFC,Portland,Ottawa,Flowers
+3ERS,Victoria,Prince George,Rock
+2ASW,Victoria,Prince George,Rose
+2EAA,Victoria,Prince George,Paint
+4TYY,Vancouver,Prince George,Book
+4TYY,Vancouver,Prince George,Book
+4TYY,Vancouver,Prince George,Book
+6TSD,Vancouver,Nanaimo,computer
+4RES,Victoria,Nanaimo,BIke
+4RES,Victoria,Nanaimo,BIke
+4RES,Seattle,Prince George,shirt
+4RES,Victoria,Seattle,Toy
+4RES,Victoria,Seattle,Toy
+4RES,Victoria,Seattle,Toy
+4RES,Seattle,Nanaimo,BIke
+2QQQ,Seattle,Nanaimo,Keys
+5WWW,Vancouver,Prince George,Pebble
+5WWE,Vancouver,Prince George,Pebble
+0QWE,Victoria,Seattle,piano
+0QWE,Victoria,Seattle,piano
+0QWE,Victoria,Seattle,Guitar
+9POI,Victoria,Nanaimo,BIke
+9POI,Victoria,Nanaimo,BIke
+9POI,Victoria,Nanaimo,BIke
+9POI,Victoria,Nanaimo,BIke
+9POI,Seattle,Prince George,blanket
+9POI,Vancouver,Nanaimo,fish
+9POI,Vancouver,Nanaimo,fish
+9POI,Seattle,Nanaimo,phone
+9POI,Seattle,Nanaimo,phone
+9WES,Seattle,Nanaimo,watch
+9WES,Seattle,Nanaimo,waterbottle
+9POI,Vancouver,Seattle,plane
+4ERD,Vancouver,Seattle,Bike
+4ERD,Vancouver,Seattle,Bike
+4ERD,Vancouver,Seattle,Bike
+9POI,Nanaimo,Vancouver,wer
+5RES,Vancouver,Seattle,tortillas
+5RES,Vancouver,Seattle,tortillas
+5RSE,Seattle,Vancouver,rope
+4AES,Vancouver,Prince George,rope
+4AES,Vancouver,Prince George,computer
+9POY,Victoria,Seattle,bike
+4YTR,Victoria,Nanaimo,rock
